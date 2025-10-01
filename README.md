@@ -1,6 +1,6 @@
 # Budget Optimization Analysis
 
-📄 [View the Full Presentation](https://github.com/ignaciogomenuka/budget-optimization-analysis/blob/master/Budget-Optimization-Analysis.pdf)
+📄 [View the Full Presentation](https://github.com/ignaciogomenuka/budget-optimization-analysis/blob/main/Budget%20Optimization%20Analysis.pdf)
 
 ## Overview
 Comprehensive budget optimization analysis for digital advertising campaigns comparing TikTok vs Meta performance across 3 clients.
